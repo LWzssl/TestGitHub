@@ -1,7 +1,0 @@
- <java>
-
-     public class test{
-      System.out.printf("hello GitHub");
-      System.out.printf("hello GitHub");
-      }
- </java>
